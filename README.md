@@ -1,4 +1,4 @@
-# Easy Gantt
+# Easy Gantt|
 Easiest way to make your own Gantt Chart.
 
  - [jQuery](https://jquery.com/)
